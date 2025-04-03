@@ -1,3 +1,4 @@
+Readme
 ![pkgx.dev](https://pkgx.dev/banner.png)
 
 `ossapp` is the graphical app complement to [`pkgx`].
